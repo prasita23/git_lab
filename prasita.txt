@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 My life is miserable 
 seems to be tougher than i expected it to be
+=======
+some in-progress work
+>>>>>>> 1faa06d (Initial commit)
